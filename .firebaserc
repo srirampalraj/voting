@@ -2,7 +2,7 @@
   "projects": {
     "demo": "auth-ionic",
     "hosting": "voting-81695",
-    "default": "authendicate-415d2"
+    "default": "voting-81695"
   },
   "targets": {
     "auth-ionic": {
