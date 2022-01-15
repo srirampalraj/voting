@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "demo": "auth-ionic",
+    "hosting": "voting-81695",
+    "default": "authendicate-415d2"
+  },
+  "targets": {
+    "auth-ionic": {
+      "hosting": {
+        "app": [
+          "auth-ionic"
+        ]
+      }
+    }
+  }
+}
